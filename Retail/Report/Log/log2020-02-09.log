@@ -1,0 +1,322 @@
+2020-02-09 12:08:51,891 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 12:08:52,043 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:08:52,048 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:08:52,053 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:08:52,058 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:08:57,903 -Retail.Test_case.models.Doexcel- log.py:[40] - [ERROR] - read value excel file fail
+Traceback (most recent call last):
+  File "D:\JekinsProject\Retail\Test_case\models\Doexcel.py", line 29, in readExcel
+    value = self.sheetName.cell(rownum,colnum).value
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\sheet.py", line 412, in cell
+    self._cell_types[rowx][colx],
+IndexError: array index out of range
+2020-02-09 12:11:41,457 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 12:11:41,469 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:11:41,471 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:11:41,474 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:11:41,476 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:11:47,321 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:11:47,321 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:11:47,321 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:11:47,322 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:11:47,322 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:11:47,322 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:11:57,515 -Retail.Test_case.Page_obj.base_page- log.py:[40] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "D:\JekinsProject\Retail\Test_case\Page_obj\base_page.py", line 50, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(loc))
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-02-09 12:13:39,291 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 12:13:39,303 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:13:39,305 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:13:39,307 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:13:39,310 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:13:44,533 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:13:44,533 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:13:44,533 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:13:44,533 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:13:44,533 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:13:44,534 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:13:52,160 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - _open is accessing address https://mail.qq.com/cgi-bin/loginpage at line[46]
+2020-02-09 12:13:52,160 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - https://mail.qq.com/cgi-bin/loginpage loading successed!
+2020-02-09 12:13:55,663 -Retail.Test_case.Page_obj.base_page- log.py:[40] - [ERROR] - finding element timeout!, details
+Traceback (most recent call last):
+  File "D:\JekinsProject\Retail\Test_case\Page_obj\base_page.py", line 50, in findElement
+    WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(loc))
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Failed to decode response from marionette
+
+2020-02-09 12:16:38,426 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 12:16:38,438 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:16:38,441 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:16:38,443 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:16:38,445 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 12:16:43,614 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:16:43,614 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:16:43,614 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:16:43,614 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:16:43,614 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:16:43,614 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 12:16:44,098 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 12:16:44,098 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F loading successed!
+2020-02-09 12:16:44,121 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035E7940> had already find the element ('id', 'LoginName')
+2020-02-09 12:16:44,121 -Retail.Test_case.Page_obj.base_page- log.py:[40] - [ERROR] - typing value error!
+Traceback (most recent call last):
+  File "D:\JekinsProject\Retail\Test_case\Page_obj\base_page.py", line 70, in inputValue
+    inputB.clear()
+AttributeError: 'NoneType' object has no attribute 'clear'
+2020-02-09 13:29:09,367 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 13:29:09,379 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:29:09,382 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:29:09,384 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:29:09,386 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:29:15,188 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:29:15,188 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:29:15,188 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:29:15,188 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:29:15,188 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:29:15,188 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:29:15,651 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 13:29:15,651 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F loading successed!
+2020-02-09 13:29:15,671 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035E7048> had already find the element ('id', 'LoginName')
+2020-02-09 13:29:15,704 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - inputValue:[('id', 'LoginName')] is receiveing value [187396693@qq.com]
+2020-02-09 13:29:15,724 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035E7048> had already find the element ('id', 'Password')
+2020-02-09 13:29:15,759 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - inputValue:[('id', 'Password')] is receiveing value [ppy8126691]
+2020-02-09 13:29:15,777 -Retail.Test_case.Page_obj.base_page- log.py:[32] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035E7048> had already find the element ('id', 'submitBtn')
+2020-02-09 13:29:16,009 -__main__- log.py:[32] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 13:51:02,113 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 13:51:02,134 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:51:02,137 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:51:02,139 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:51:02,143 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:51:07,988 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:51:07,988 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:51:07,988 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:51:07,989 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:51:07,989 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:51:07,989 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:53:16,017 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 13:53:16,031 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:53:16,034 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:53:16,036 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:53:16,038 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-09 13:53:21,210 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:53:21,210 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:53:21,210 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:53:21,210 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:53:21,210 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 13:53:21,210 -Retail.Test_case.models.Doexcel- log.py:[32] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:00:37,481 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 14:01:02,320 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 14:01:02,332 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:02,335 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:02,337 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:02,339 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:07,557 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:07,557 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:07,557 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:07,557 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:07,557 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:07,557 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:07,963 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 14:01:07,963 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F loading successed!
+2020-02-09 14:01:07,985 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035064E0> had already find the element ('id', 'LoginName')
+2020-02-09 14:01:08,017 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - inputValue:[('id', 'LoginName')] is receiveing value [187396693@qq.com]
+2020-02-09 14:01:08,033 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035064E0> had already find the element ('id', 'Password')
+2020-02-09 14:01:08,069 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - inputValue:[('id', 'Password')] is receiveing value [ppy8126691]
+2020-02-09 14:01:08,084 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - The page of <__main__.LoginPage object at 0x00000000035064E0> had already find the element ('id', 'submitBtn')
+2020-02-09 14:01:08,315 -__main__- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 14:01:31,663 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 14:01:31,683 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:31,685 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:31,688 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:31,691 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 14:01:36,885 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [LoginName] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:36,885 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [Password] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:36,885 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [submitBtn] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:36,886 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [IsRemember] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:36,886 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [Password-error] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 14:01:36,886 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - reading value [] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-09 17:13:38,501 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:13:38,766 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:14:55,356 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:14:55,464 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:33:57,787 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:33:58,121 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:36:00,840 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:36:01,041 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:36:12,990 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="d4b6ec69-5436-4ee7-b530-fa51eaf8b6c6")>] successed !
+2020-02-09 17:36:13,007 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 17:36:13,527 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 17:36:15,355 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 17:37:21,618 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:37:21,726 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:37:32,720 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="c67a6c04-82ae-42b9-9646-9d5df36f52f9")>] successed !
+2020-02-09 17:37:32,722 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 17:37:33,192 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 17:37:33,528 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 17:38:53,596 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:38:53,613 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:39:03,947 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b1bd11db-f988-412d-b633-0a834c2e6517")>] successed !
+2020-02-09 17:39:03,951 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 17:39:04,466 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 17:43:18,563 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:43:18,581 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:43:29,605 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="f095a5c6-7c3e-45a5-a828-1a94e12ae7c6")>] successed !
+2020-02-09 17:43:29,625 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 17:43:30,009 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 17:53:15,642 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:53:15,820 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:53:22,335 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 17:56:59,919 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 17:56:59,941 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 17:57:11,045 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="1592f4d3-b525-4e8f-9ff8-61b5cdd23444")>] successed !
+2020-02-09 17:57:11,047 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 17:57:11,481 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:03:09,552 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:03:09,574 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:03:15,362 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="77c9f08d-7580-47b5-b3ac-fa87b164c9ea")>] successed !
+2020-02-09 18:03:15,363 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:03:15,823 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:12:44,475 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:12:44,491 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:12:49,673 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a927615c-252f-446c-b12a-4fb60d6dac7d")>] successed !
+2020-02-09 18:12:49,677 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:12:50,432 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:15:29,233 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:15:29,249 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:15:34,462 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="0f111ef9-44cc-47f7-86f0-5d2df7fb6231")>] successed !
+2020-02-09 18:15:34,464 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:15:34,957 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:20:56,266 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:20:56,281 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:21:01,502 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="4366ce1b-9240-450b-b884-7ddf7e98ec76")>] successed !
+2020-02-09 18:25:20,481 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:25:20,497 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:25:25,703 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="d7c40d15-8b82-4be8-b1b5-ece03f34a97f")>] successed !
+2020-02-09 18:25:25,705 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:25:26,126 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:25:26,487 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:25:26,644 -loginTC- log.py:[34] - [INFO] - test_login_success_correct_password->run completed! please check the test report
+2020-02-09 18:27:43,762 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:27:43,778 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:27:48,960 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="83c8d453-dee3-4a4d-b373-dfe474b769e9")>] successed !
+2020-02-09 18:27:48,962 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:27:49,377 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:27:49,710 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:28:35,150 -loginTC- log.py:[34] - [INFO] - test_login_success_correct_password->run completed! please check the test report
+2020-02-09 18:29:36,946 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:29:36,962 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:29:42,172 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="cf21e9c5-e032-4000-b673-0369b37b54a5")>] successed !
+2020-02-09 18:29:42,175 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:29:42,642 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:29:42,988 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:29:43,160 -loginTC- log.py:[34] - [INFO] - test_login_success_correct_password->run completed! please check the test report
+2020-02-09 18:30:01,071 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:30:01,087 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:30:06,305 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b18ce1eb-7451-4e2c-bbb9-6b94f525e864")>] successed !
+2020-02-09 18:30:06,307 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:30:06,744 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:30:07,083 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:31:32,623 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:31:32,638 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:31:37,835 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="07a42fdb-5447-47bf-84b5-dadd34d8b60f")>] successed !
+2020-02-09 18:31:37,837 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:31:38,326 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:31:38,670 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:33:19,902 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:33:19,918 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:33:25,137 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="aabccdc8-d8d2-450d-b750-0c5b72b7664d")>] successed !
+2020-02-09 18:33:25,140 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:33:25,593 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:33:25,939 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:35:47,791 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:35:47,807 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:35:52,991 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="4c4cb0c0-babf-4bd5-b384-3bf5c82fc23a")>] successed !
+2020-02-09 18:35:52,993 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:35:53,443 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:35:53,793 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:39:01,149 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:39:01,165 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:39:06,408 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="dbb808b0-ccbd-421b-89d5-610967cbd326")>] successed !
+2020-02-09 18:39:06,411 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:39:06,863 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:39:07,233 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:41:18,632 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:41:18,649 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:41:23,837 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="2e8a20b7-e0e0-4c2d-a3d3-dfad4f66c564")>] successed !
+2020-02-09 18:41:23,840 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:41:24,373 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:41:24,724 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:42:59,315 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:42:59,333 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:43:04,526 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="7b5e064c-a2de-4a3f-93bb-995e080e022a")>] successed !
+2020-02-09 18:43:04,529 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:43:04,909 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:43:05,254 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:48:42,479 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:48:42,495 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:48:47,709 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a48c9199-2a52-4988-b901-6c5525ce79fb")>] successed !
+2020-02-09 18:48:47,711 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:48:48,181 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:48:48,511 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 18:49:07,886 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 18:49:07,903 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 18:49:13,084 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a564eed0-1ac8-4f29-9535-ff7c93383ecd")>] successed !
+2020-02-09 18:49:13,087 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 18:49:13,510 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 18:49:13,844 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:12:11,534 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 19:12:11,550 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 19:12:16,743 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a3b1a411-a376-41ce-9b27-6b075d6fde7f")>] successed !
+2020-02-09 19:12:16,745 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 19:12:17,187 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 19:12:17,543 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:15:34,145 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 19:15:34,161 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 19:15:39,346 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="10d89fbd-fd01-4354-81d7-20a19d56e22a")>] successed !
+2020-02-09 19:15:39,348 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 19:15:39,769 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 19:15:40,117 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:20:40,280 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 19:20:40,297 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 19:20:45,507 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="8ad8334a-a1da-49e3-8571-c2bb79e4871a")>] successed !
+2020-02-09 19:20:45,509 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 19:20:46,948 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 19:20:47,288 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:29:41,257 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 19:29:41,419 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 19:29:50,703 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="e71bb525-2bad-43d5-b87c-48598ab82809")>] successed !
+2020-02-09 19:29:50,711 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 19:29:51,224 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 19:29:52,131 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:31:38,710 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 19:31:38,820 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 19:31:44,652 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="cee87c5b-26ab-4ded-8676-e2ed27f39fd9")>] successed !
+2020-02-09 19:31:44,655 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 19:31:45,085 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 19:31:45,409 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:31:45,531 -loginTC- log.py:[34] - [INFO] - test_login_failed_username_password_blank->run completed! please check the test report
+2020-02-09 19:32:00,589 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-09 19:32:00,605 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-09 19:32:05,800 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="40612a3b-4871-4874-8c23-b76ced6757ed")>] successed !
+2020-02-09 19:32:05,802 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-09 19:32:06,335 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://account.cnblogs.com/signin?returnUrl=https%3A%2F%2Fi-beta.cnblogs.com%2F at line[46]
+2020-02-09 19:32:06,688 -Retail.Test_case.Page_obj.login_page- log.py:[34] - [INFO] - clickLoginBtn ,logining....!
+2020-02-09 19:32:27,493 -loginTC- log.py:[34] - [INFO] - test_login_failed_incorrect_username->run completed! please check the test report

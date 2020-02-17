@@ -1,0 +1,516 @@
+2020-02-08 09:31:47,022 fox log.py debug
+2020-02-08 09:31:47,022 fox log.py 提示
+2020-02-08 09:35:24,344 fox log.py debug
+2020-02-08 09:35:24,344 fox log.py 提示
+2020-02-08 09:35:58,617 fox log.py debug
+2020-02-08 09:35:58,617 fox log.py 提示
+2020-02-08 09:37:59,783 - log.py:[28] - [WARNING] - debug
+2020-02-08 09:37:59,783 - log.py:[29] - [INFO] - 提示
+2020-02-08 09:41:10,712 fox log.py debug
+2020-02-08 09:41:10,712 fox log.py 提示
+2020-02-08 09:43:14,139 - log.py:[32] - [WARNING] - debug
+2020-02-08 09:43:14,139 - log.py:[33] - [INFO] - 提示
+2020-02-08 09:45:57,814 - log.py:[31] - [WARNING] - debug
+2020-02-08 09:45:57,814 - log.py:[29] - [INFO] - 提示
+2020-02-08 09:46:09,296 - log.py:[31] - [WARNING] - debug
+2020-02-08 09:46:09,296 - log.py:[33] - [ERROR] - 提示
+2020-02-08 09:58:41,300 - log.py:[31] - [WARNING] - debug
+2020-02-08 09:58:41,300 - log.py:[33] - [ERROR] - 提示
+2020-02-08 10:00:10,189 - log.py:[31] - [WARNING] - debug
+2020-02-08 10:00:10,189 - log.py:[33] - [ERROR] - 提示
+2020-02-08 10:00:54,151 - log.py:[31] - [WARNING] - debug
+2020-02-08 10:00:54,151 - log.py:[33] - [ERROR] - 提示
+2020-02-08 10:20:49,333 -fox- log.py:[31] - [WARNING] - debug
+2020-02-08 10:20:49,333 -fox- log.py:[33] - [ERROR] - 提示
+2020-02-08 10:29:22,662 -Retail.Test_case.models.Doconfini- log.py:[29] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 10:30:56,764 -Retail.Test_case.models.Doconfini- log.py:[29] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 10:32:08,790 -Retail.Test_case.models.Doconfini- log.py:[29] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 10:33:06,775 -Retail.Test_case.models.Doconfini- log.py:[29] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 10:33:28,163 -Retail.Test_case.models.Doconfini- log.py:[29] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:12:33,581 -Retail.Test_case.models.Doconfini- log.py:[29] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:24:34,240 -fox- log.py:[36] - [WARNING] - debug
+2020-02-08 11:24:34,240 -fox- log.py:[38] - [ERROR] - 提示
+2020-02-08 11:25:12,522 -fox- log.py:[34] - [WARNING] - debug
+2020-02-08 11:25:12,522 -fox- log.py:[36] - [ERROR] - 提示
+2020-02-08 11:25:38,075 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:41:46,232 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:42:05,389 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:42:05,389 -__main__- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:43:31,767 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:43:31,767 -__main__- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 11:43:31,767 -__main__- log.py:[32] - [INFO] - write section tesesection with value hello word successed!
+2020-02-08 13:58:18,324 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 13:58:48,824 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 13:58:48,825 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 18, in __init__
+    self.workbook = xlrd.open_workbook(self.dataFile)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\report\\TestData\\elementData.xlsx'
+2020-02-08 13:59:57,521 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 13:59:57,521 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 18, in __init__
+    self.workbook = xlrd.open_workbook(self.dataFile)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\report\\TestData\\elementData.xlsx'
+2020-02-08 14:00:09,818 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:00:09,818 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 18, in __init__
+    self.workbook = xlrd.open_workbook(self.dataFile)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\report\\TestData\\elementData.xls'
+2020-02-08 14:00:51,778 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:00:51,779 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 18, in __init__
+    self.workbook = xlrd.open_workbook(self.dataFile)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\TestData\\elementData.xls'
+2020-02-08 14:01:43,942 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:01:43,942 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 18, in __init__
+    self.workbook = xlrd.open_workbook(self.dataFile)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\TestData\\elementData.xls'
+2020-02-08 14:02:40,617 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:02:40,633 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 18, in __init__
+    self.workbook = xlrd.open_workbook(self.dataFile)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\Data\\TestData\\elementData.xls'
+2020-02-08 14:03:03,806 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:03:03,822 -__main__- log.py:[40] - [ERROR] - init class ReadExcel fail
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\book.py", line 474, in sheet_by_name
+    sheetx = self._sheet_names.index(sheet_name)
+ValueError: 'elementsInfo' is not in list
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 19, in __init__
+    self.sheetName = self.workbook.sheet_by_name(sheetName)
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\book.py", line 476, in sheet_by_name
+    raise XLRDError('No sheet named <%r>' % sheet_name)
+xlrd.biffh.XLRDError: No sheet named <'elementsInfo'>
+2020-02-08 14:03:37,025 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:03:37,031 -__main__- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-08 14:03:37,031 -__main__- log.py:[40] - [ERROR] - read value excel file fail
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Doexcel.py", line 29, in readExcel
+    value = self.sheetName.cell(rownum,colnum).value
+  File "D:\JekinsProject\venv\lib\site-packages\xlrd\sheet.py", line 412, in cell
+    self._cell_types[rowx][colx],
+IndexError: array index out of range
+2020-02-08 14:07:31,207 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:07:31,212 -__main__- log.py:[32] - [INFO] - initing class ReadExcel
+2020-02-08 14:07:31,212 -__main__- log.py:[32] - [INFO] - reading value [id] from excel file [D:\JekinsProject\Retail\Data\TestData\elementData.xlsx] completed
+2020-02-08 14:58:35,886 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:58:35,887 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 14:58:35,887 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [[['187396693@qq.com', 'gaoyuan19840914@163.com']]]
+2020-02-08 14:58:35,887 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [[['187396693@qq.com', 'gaoyuan19840914@163.com'], ['123@123.com', 'test@163.com']]]
+2020-02-08 14:58:35,888 -__main__- log.py:[40] - [ERROR] - open or read file [2018-09-21 17_44_04.html] failed,No such file or directory: D:\JekinsProject\Retail\report\TestReport
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 35, in sendEmail
+    f = open(os.path.join(Conf.reportPath,filename),'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\report\\TestReport\\2018-09-21 17_44_04.html'
+2020-02-08 14:58:35,903 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002D58908>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 50, in sendEmail
+    smtp.connect(self._server)
+AttributeError: 'SendMail' object has no attribute '_server'
+2020-02-08 14:59:12,766 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 14:59:12,766 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 14:59:12,766 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [[['187396693@qq.com', 'gaoyuan19840914@163.com']]]
+2020-02-08 14:59:12,766 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [[['187396693@qq.com', 'gaoyuan19840914@163.com'], ['123@123.com', 'test@163.com']]]
+2020-02-08 14:59:12,766 -__main__- log.py:[40] - [ERROR] - open or read file [2018-09-21 17_44_04.html] failed,No such file or directory: D:\JekinsProject\Retail\report\TestReport
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 35, in sendEmail
+    f = open(os.path.join(Conf.reportPath,filename),'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\report\\TestReport\\2018-09-21 17_44_04.html'
+2020-02-08 14:59:13,063 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002D49940>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 51, in sendEmail
+    smtp.login(self._fromuser,self._frompassword)
+  File "D:\Python37\install\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Python37\install\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Python37\install\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2020-02-08 15:01:08,017 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:01:08,017 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:01:08,017 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [[['187396693@qq.com', 'gaoyuan19840914@163.com']]]
+2020-02-08 15:01:08,017 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [[['187396693@qq.com', 'gaoyuan19840914@163.com'], ['123@123.com', 'test@163.com']]]
+2020-02-08 15:01:08,017 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:01:08,064 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002DCFB38>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 51, in sendEmail
+    smtp.login(self._fromuser,self._frompassword)
+  File "D:\Python37\install\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Python37\install\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Python37\install\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2020-02-08 15:04:36,791 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:04:36,792 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:04:36,792 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com']]
+2020-02-08 15:04:36,792 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com', '123@123.com', 'test@163.com']]
+2020-02-08 15:04:36,792 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:04:37,864 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002DEFBA8>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 51, in sendEmail
+    smtp.login(self._fromuser,self._frompassword)
+  File "D:\Python37\install\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Python37\install\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Python37\install\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2020-02-08 15:05:30,146 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:05:30,146 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:05:30,146 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com']]
+2020-02-08 15:05:30,146 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com', '123@123.com', 'test@163.com']]
+2020-02-08 15:05:30,146 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:05:30,543 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002DD0B70>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 51, in sendEmail
+    smtp.login(self._fromuser,self._frompassword)
+  File "D:\Python37\install\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Python37\install\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Python37\install\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2020-02-08 15:08:29,863 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:08:29,863 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:08:29,863 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com']]
+2020-02-08 15:08:29,863 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com', '123@123.com', 'test@163.com']]
+2020-02-08 15:08:29,864 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:08:30,210 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002DD0B00>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 51, in sendEmail
+    smtp.login(self._fromuser,self._frompassword)
+  File "D:\Python37\install\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Python37\install\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Python37\install\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256')
+2020-02-08 15:09:37,298 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:09:37,299 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:09:37,299 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com']]
+2020-02-08 15:09:37,299 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com', '123@123.com', 'test@163.com']]
+2020-02-08 15:09:37,299 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:09:37,339 -__main__- log.py:[40] - [ERROR] - connect [<smtplib.SMTP object at 0x0000000002DF0BA8>] server failed or username and password incorrect!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 51, in sendEmail
+    smtp.login(self._fromuser,self._frompassword)
+  File "D:\Python37\install\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "D:\Python37\install\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "D:\Python37\install\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed')
+2020-02-08 15:10:10,139 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:10:10,139 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:10:10,139 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com']]
+2020-02-08 15:10:10,139 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com', '123@123.com', 'test@163.com']]
+2020-02-08 15:10:10,139 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:10:10,262 -__main__- log.py:[32] - [INFO] - email server [<smtplib.SMTP object at 0x0000000002DCFAC8>] login success!
+2020-02-08 15:10:10,276 -__main__- log.py:[40] - [ERROR] - send email failed!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Sendmail.py", line 57, in sendEmail
+    smtp.sendmail(self._sender,self._receiver,msg.as_string())
+  File "D:\Python37\install\lib\smtplib.py", line 867, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (553, b'Mail from must equal authorized user', '187396693@qq.com')
+2020-02-08 15:10:47,727 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:10:47,728 -__main__- log.py:[32] - [INFO] - open file [Email_receiver.txt] successed!
+2020-02-08 15:10:47,728 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com']]
+2020-02-08 15:10:47,728 -__main__- log.py:[32] - [INFO] - reading [Email_receiver.txt] and got receiver value is [['187396693@qq.com', 'gaoyuan19840914@163.com', '123@123.com', 'test@163.com']]
+2020-02-08 15:10:47,728 -__main__- log.py:[32] - [INFO] - open and read file [log2020-02-08.log] successed!
+2020-02-08 15:10:47,833 -__main__- log.py:[32] - [INFO] - email server [<smtplib.SMTP object at 0x0000000002DD0B70>] login success!
+2020-02-08 15:10:48,397 -__main__- log.py:[32] - [INFO] - send email successed!
+2020-02-08 15:46:36,914 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:46:36,914 -__main__- log.py:[40] - [ERROR] - [D:\JekinsProject\Retail\report\TestReport\2020-02-08 15_46_36\.html] open error cause Failed to generate test report
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Testreport.py", line 22, in testreport
+    fp = open(fileName,'wb')
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\report\\TestReport\\2020-02-08 15_46_36\\.html'
+2020-02-08 15:47:14,203 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:47:14,203 -__main__- log.py:[40] - [ERROR] - [D:\JekinsProject\Retail\Report\TestReport\2020-02-08 15_47_14\.html] open error cause Failed to generate test report
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Testreport.py", line 22, in testreport
+    fp = open(fileName,'wb')
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\Report\\TestReport\\2020-02-08 15_47_14\\.html'
+2020-02-08 15:50:07,832 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:50:07,832 -__main__- log.py:[40] - [ERROR] - [D:\JekinsProject\Retail\Report\TestReport\2020-02-08 15_50_07\.html] open error cause Failed to generate test report
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Testreport.py", line 22, in testreport
+    fp = open(fileName,'wb')
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\JekinsProject\\Retail\\Report\\TestReport\\2020-02-08 15_50_07\\.html'
+2020-02-08 15:53:48,573 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:53:48,573 -__main__- log.py:[32] - [INFO] - successed to generate test report [D:\JekinsProject\Retail\Report\TestReport\2020-02-08 15_53_48.html]
+2020-02-08 15:55:15,007 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:55:15,007 -__main__- log.py:[32] - [INFO] - successed to generate test report [D:\JekinsProject\Retail\Report\TestReport\2020-02-08 15_55_15.html]
+2020-02-08 15:56:15,310 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 15:56:15,311 -__main__- log.py:[32] - [INFO] - successed to generate test report [D:\JekinsProject\Retail\Report\TestReport\2020-02-08 15_56_15.html]
+2020-02-08 16:49:53,377 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 16:49:53,408 -__main__- log.py:[32] - [INFO] - successed to generate test report [D:\JekinsProject\Retail\Report\TestReport\2020-02-08 16_49_53.html]
+2020-02-08 16:49:53,408 -__main__- log.py:[40] - [ERROR] - successed to generate test report [2020-02-08 16_49_53.html]
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Testreport.py", line 55, in runTc
+    result.report(filename=fileName, description='测试报告', log_path=conf.reportPath)
+NameError: name 'conf' is not defined
+2020-02-08 16:50:20,773 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 16:50:37,309 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 16:50:37,309 -__main__- log.py:[40] - [ERROR] - successed to generate test report [2020-02-08 16_50_37.html]
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Testreport.py", line 57, in runTc
+    result.report(filename=fileName, description='测试报告', log_path=conf.reportPath)
+NameError: name 'conf' is not defined
+2020-02-08 16:50:42,816 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 16:50:42,816 -__main__- log.py:[40] - [ERROR] - successed to generate test report [2020-02-08 16_50_42.html]
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Testreport.py", line 57, in runTc
+    result.report(filename=fileName, description='测试报告', log_path=conf.reportPath)
+NameError: name 'conf' is not defined
+2020-02-08 16:50:56,746 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 16:51:42,579 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:06:18,718 -__main__- log.py:[32] - [INFO] - fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="c601245a-d46d-43be-ab7d-b76f94ac13d8")>] successed !
+2020-02-08 17:09:21,661 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:09:26,907 -__main__- log.py:[32] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="e3cf59c8-f887-4ef3-9a6a-0ff91e59a7c7")>] successed !
+2020-02-08 17:10:14,627 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:10:19,873 -__main__- log.py:[32] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="ab72091d-712c-401f-9b8f-b7f4cb35a435")>] successed !
+2020-02-08 17:16:43,637 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:16:43,668 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:17:41,778 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:17:41,778 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:18:12,776 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:18:12,776 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:20:37,295 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:22:09,164 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:22:09,164 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:23:00,499 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:23:00,499 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:27:08,634 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:27:08,649 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:27:40,551 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:27:40,551 -__main__- log.py:[40] - [ERROR] - IEDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 76, in start
+    stdin=PIPE)
+  File "D:\Python37\install\lib\subprocess.py", line 775, in __init__
+    restore_signals, start_new_session)
+  File "D:\Python37\install\lib\subprocess.py", line 1178, in _execute_child
+    startupinfo)
+FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 27, in ieDriver
+    self.driver = webdriver.Ie()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 91, in __init__
+    self.iedriver.start()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\common\service.py", line 83, in start
+    os.path.basename(self.path), self.start_error_message)
+selenium.common.exceptions.WebDriverException: Message: 'IEDriverServer.exe' executable needs to be in PATH. Please download from http://selenium-release.storage.googleapis.com/index.html and read up at https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
+
+2020-02-08 17:32:06,236 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:36:47,252 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:41:45,492 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:45:23,722 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:45:47,093 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:45:49,520 -__main__- log.py:[32] - [INFO] - <module>:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="65002cb63ffe2141aa40b64a9a91b58d")>] successed !
+2020-02-08 17:46:41,125 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:46:43,567 -__main__- log.py:[32] - [INFO] - <module>:found the chrome driver [<selenium.webdriver.chrome.webdriver.WebDriver (session="42c1c3687bad59279bdae35a7b362d87")>] successed !
+2020-02-08 17:47:13,222 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:47:15,714 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:47:54,419 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:47:56,898 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:48:14,276 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:48:16,760 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:48:54,996 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:48:57,432 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:49:25,387 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:49:27,845 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:49:33,138 -__main__- log.py:[32] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="6dad34ec-a6f6-4fa7-8675-3422a69a546a")>] successed !
+2020-02-08 17:50:08,784 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:50:11,246 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:50:38,873 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:50:41,360 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:50:46,653 -__main__- log.py:[32] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="04d4c154-ff9c-472e-a329-409a613ea7d3")>] successed !
+2020-02-08 17:51:01,442 -Retail.Test_case.models.Doconfini- log.py:[32] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-08 17:51:03,928 -__main__- log.py:[40] - [ERROR] - ChromeDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:/JekinsProject/Retail/Test_case/models/Driver.py", line 30, in chromeDriver
+    a = 1/0
+ZeroDivisionError: division by zero
+2020-02-08 17:51:09,173 -__main__- log.py:[32] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="05870a4f-5f24-433a-8852-17133a5db8ec")>] successed !

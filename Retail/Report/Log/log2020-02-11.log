@@ -1,0 +1,528 @@
+2020-02-11 10:08:01,832 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 10:08:01,951 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 10:08:08,475 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="cf93b744-d6b3-4287-b5e7-d4a990d405cd")>] successed !
+2020-02-11 10:08:09,391 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 10:08:10,636 -__main__- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:35:34,605 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:35:34,620 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:35:39,959 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b9a5b7ed-29df-451f-b0e5-e5b830899fc7")>] successed !
+2020-02-11 14:35:39,959 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 14:35:50,148 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 14:35:51,431 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:39:28,234 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:39:28,265 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:39:34,197 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="299c3ef0-7c65-4305-9197-f5f6c5ff1253")>] successed !
+2020-02-11 14:39:34,197 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 14:39:38,960 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 14:39:40,390 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:39:40,390 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 14:41:09,164 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:41:09,180 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:41:30,006 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:41:30,037 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:41:35,407 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="030f6fdf-ebd7-47c1-aa17-def5ca71838d")>] successed !
+2020-02-11 14:41:35,407 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 14:41:40,073 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 14:41:41,178 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:41:41,178 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 14:43:28,990 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:43:29,006 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:43:34,891 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="e7cce099-dd84-4d3e-93a3-4f9115d7718f")>] successed !
+2020-02-11 14:43:34,891 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 14:43:43,667 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 14:43:44,957 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:43:44,958 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 14:44:54,902 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:44:54,933 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:45:00,319 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="d0708306-6992-4e65-9c7b-54b869867ee3")>] successed !
+2020-02-11 14:45:00,335 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 14:45:01,241 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 14:45:06,816 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:45:06,816 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 14:46:09,423 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 14:46:09,439 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 14:46:14,809 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a395dd13-2787-46c0-82fd-280bdcb87966")>] successed !
+2020-02-11 14:46:14,809 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 14:46:22,443 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 14:46:23,888 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 14:46:23,888 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 14:46:25,216 -SettingPageTC- log.py:[34] - [INFO] - test_prolang->run completed! please check the test report
+2020-02-11 15:10:24,413 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:10:24,429 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:10:29,799 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="6719719a-a980-4187-a9c3-9bfa519758c6")>] successed !
+2020-02-11 15:10:29,799 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:10:34,672 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:10:35,557 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:10:35,558 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:21:11,228 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:21:11,244 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:21:16,630 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="512c06f5-930c-4311-be0e-d7f343c92cf1")>] successed !
+2020-02-11 15:21:16,630 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:21:22,432 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:21:23,603 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:21:23,603 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:24:50,472 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:24:50,487 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:24:55,748 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="42e5f615-3f60-4dfa-8539-7689ecaac1ac")>] successed !
+2020-02-11 15:24:55,748 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:25:00,458 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:25:01,763 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:25:01,763 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:27:23,345 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:27:23,361 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:27:28,639 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="6e4f744c-92da-4dfd-b81e-1247f80d87d8")>] successed !
+2020-02-11 15:27:28,639 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:27:29,415 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:27:30,960 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:27:30,961 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:32:23,511 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:32:23,527 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:32:28,804 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="aa5c0680-4bb7-47dc-97f4-251abdcf3934")>] successed !
+2020-02-11 15:32:49,864 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:32:49,879 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:32:55,156 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="238039af-ab11-49e5-988f-49fa6b6963be")>] successed !
+2020-02-11 15:37:20,800 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:37:20,815 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:37:26,092 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="662e20dd-a6aa-4dcd-a025-2fa08802a52c")>] successed !
+2020-02-11 15:39:17,021 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:39:17,036 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:39:22,317 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="08291861-3fc4-4c25-9cd4-f403cafafeb3")>] successed !
+2020-02-11 15:39:23,357 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:39:25,808 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:43:25,379 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:43:25,395 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:43:30,656 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="58ac3991-2823-409b-a34a-7ed3b4b3b403")>] successed !
+2020-02-11 15:43:35,463 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:43:37,925 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:48:05,625 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:48:05,640 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:48:10,964 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="7584a130-9e9f-49d0-81ce-bf04fbc269b5")>] successed !
+2020-02-11 15:48:10,980 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:48:12,116 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:48:13,302 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:48:13,302 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:50:39,717 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:50:39,732 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:50:45,040 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b9acca2a-4410-4162-b6c3-33a31e0e6e30")>] successed !
+2020-02-11 15:50:45,040 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:50:50,701 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:50:52,127 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:50:52,127 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:55:51,023 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:55:51,038 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:55:56,300 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="6eb555b7-7894-4704-bdf1-a55a680f949a")>] successed !
+2020-02-11 15:55:56,300 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 15:56:02,380 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:56:03,366 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 15:56:03,366 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 15:57:37,437 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 15:57:37,452 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 15:57:42,729 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="86122641-aad3-4da2-94e1-b03307b61739")>] successed !
+2020-02-11 15:57:47,569 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 15:57:48,825 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:01:36,697 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:01:36,713 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:01:41,990 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="ac7e6b6b-9434-455b-82df-aac6b1132fa6")>] successed !
+2020-02-11 16:01:46,783 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:01:48,844 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:03:23,883 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:03:23,883 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:03:29,160 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a5af4c5f-1eb9-4e35-af47-259483401d2b")>] successed !
+2020-02-11 16:03:30,060 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:03:31,321 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:05:11,030 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:05:11,046 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:05:16,338 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="1638f232-0001-409a-af06-409d21bb1090")>] successed !
+2020-02-11 16:05:17,264 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:05:19,926 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:06:03,471 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:06:03,487 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:06:08,733 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="243ab2a1-2f95-4e47-b58d-c1a84d89b6be")>] successed !
+2020-02-11 16:06:08,733 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 16:06:09,650 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:06:11,741 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:06:11,742 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 16:11:11,355 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:11:11,370 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:11:16,648 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="9c0140f0-330a-4c27-aa87-62fd2d6257fe")>] successed !
+2020-02-11 16:11:16,648 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 16:11:17,582 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:11:18,773 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:11:18,773 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 16:14:29,700 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:14:29,716 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:14:34,962 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="0921743f-39a9-4612-80a0-1ef539d2d219")>] successed !
+2020-02-11 16:14:34,962 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 16:14:40,518 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:14:45,488 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:14:45,489 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 16:17:40,113 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 16:17:40,129 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 16:17:45,406 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="7fd8be83-d6fc-4cb2-a183-72204c6f1699")>] successed !
+2020-02-11 16:17:45,406 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 16:17:50,186 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 16:17:51,626 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 16:17:51,627 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:02:18,549 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:02:18,566 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:02:23,880 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="73823d01-cef1-418d-891a-7a327423cb9d")>] successed !
+2020-02-11 17:02:23,883 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:02:29,806 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:02:33,543 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:02:33,544 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:06:21,195 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:06:21,213 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:06:26,387 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b65aa55f-4620-4d6d-a5ce-74ca13ecac39")>] successed !
+2020-02-11 17:06:27,044 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/set/profile/ at line[46]
+2020-02-11 17:06:28,537 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:07:11,052 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:07:11,068 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:07:16,892 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="69c0aecb-3271-4e99-a129-a7a04dae1e7f")>] successed !
+2020-02-11 17:07:18,503 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/set/profile/ at line[46]
+2020-02-11 17:07:20,073 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:07:46,203 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:07:46,217 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:07:52,029 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="73d72a6b-7796-4e5c-9b55-455445c9b1f0")>] successed !
+2020-02-11 17:07:52,881 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com at line[46]
+2020-02-11 17:07:53,456 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:09:05,407 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:09:05,422 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:09:10,711 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="84f71b91-366d-430e-b7f1-38d29b5c9a62")>] successed !
+2020-02-11 17:09:11,755 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com at line[46]
+2020-02-11 17:09:12,385 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:10:14,182 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:10:14,197 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:10:19,419 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="d0fab9e0-f9bc-43c2-acfc-d1857e634043")>] successed !
+2020-02-11 17:10:49,453 -Retail.Test_case.Page_obj.base_page- log.py:[44] - [ERROR] - Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//home.cnblogs.xn--com-6y3b/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20home.cnblogs.xn--com-6y3b%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+Traceback (most recent call last):
+  File "D:\JekinsProject\Retail\Test_case\Page_obj\base_page.py", line 36, in _open
+    self.driver.get(url)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=dnsNotFound&u=https%3A//home.cnblogs.xn--com-6y3b/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20home.cnblogs.xn--com-6y3b%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+
+2020-02-11 17:10:57,345 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:10:57,360 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:11:03,174 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="18664e9a-bb43-42cd-9326-02ea40c7a569")>] successed !
+2020-02-11 17:11:04,006 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:11:04,623 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:11:41,849 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:11:41,864 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:11:47,702 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="7294aa69-1dd0-4b30-8d38-2dfa3a21e7fd")>] successed !
+2020-02-11 17:11:48,401 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:11:49,064 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:12:32,288 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:12:32,303 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:12:37,594 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="12cd7715-8176-4a54-8ce2-38cefa3030aa")>] successed !
+2020-02-11 17:12:39,440 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:12:43,929 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:13:47,615 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:13:47,630 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:13:53,454 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="d948faad-efbc-4978-af93-0568eb0cacee")>] successed !
+2020-02-11 17:13:54,275 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:13:54,936 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:14:42,182 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:14:42,214 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:14:47,476 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:14:47,491 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:14:53,440 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="440ee08d-8bf1-4be5-9e4f-650398a0fb42")>] successed !
+2020-02-11 17:14:54,205 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:14:54,752 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:15:12,139 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:15:12,170 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:15:19,147 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="fb783c66-c1dd-43fa-9933-5ad1277c3ae6")>] successed !
+2020-02-11 17:15:20,470 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:15:21,210 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:15:52,827 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:15:53,014 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:16:00,741 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="4665a5f2-150f-4718-936b-e112409b7456")>] successed !
+2020-02-11 17:16:02,896 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:16:03,550 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:17:58,040 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:17:58,165 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:18:06,423 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="360ab28d-eee4-47d1-9a67-5b2770da7022")>] successed !
+2020-02-11 17:18:07,592 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:18:08,273 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:19:54,278 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:19:54,294 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:20:00,288 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="d979816f-ebbb-4c57-b0ac-1db351ea3637")>] successed !
+2020-02-11 17:20:01,227 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:20:01,872 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:21:04,024 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:21:04,040 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:21:09,349 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="28c9e99f-a1da-402b-991d-a3353f370f30")>] successed !
+2020-02-11 17:21:10,136 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:21:12,802 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:21:47,712 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:21:47,728 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:21:53,114 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="03484a49-3164-454b-af81-81315ef122c7")>] successed !
+2020-02-11 17:21:55,053 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:21:55,667 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:22:20,690 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:22:20,706 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:22:26,092 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="48e96207-971e-451f-87f6-14996082c51b")>] successed !
+2020-02-11 17:22:27,219 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:22:27,827 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:23:02,509 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:23:02,524 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:23:07,902 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="9391ed8b-30b2-43e8-94ab-759ac36c1a05")>] successed !
+2020-02-11 17:23:08,809 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:23:10,448 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:23:52,840 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:23:52,840 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:23:58,304 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="de30d07a-578b-4c2b-a6b5-bb6508344961")>] successed !
+2020-02-11 17:23:59,100 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:23:59,800 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:25:20,459 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:25:20,474 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:25:26,375 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="0bda17f2-ce75-4c83-98e5-afcdca2a70ba")>] successed !
+2020-02-11 17:25:27,236 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:25:27,884 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:25:52,489 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:25:52,599 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:25:58,687 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="e35e916b-e749-4bc5-833c-d1bccf3a3252")>] successed !
+2020-02-11 17:25:59,525 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:26:01,739 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:28:39,840 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:28:39,949 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:28:46,490 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="f4282668-0b96-42b7-bd3e-6d00fde33932")>] successed !
+2020-02-11 17:28:47,401 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:28:48,483 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:29:20,216 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:29:20,356 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:29:26,287 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="ddf90d96-c6bb-4372-aa22-f34362884d01")>] successed !
+2020-02-11 17:29:27,048 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:29:30,363 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:29:44,760 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:29:44,775 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:30:12,716 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:30:12,732 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:30:18,180 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="e762a9da-5168-4be2-8dcb-6751638be015")>] successed !
+2020-02-11 17:30:19,053 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:30:19,631 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:32:10,716 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:32:10,731 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:32:16,649 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="898c7097-53a4-46fd-8c7d-6e48f94ca9f3")>] successed !
+2020-02-11 17:32:16,664 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:32:21,372 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:32:22,422 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:32:22,423 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:36:54,356 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:36:54,466 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:37:00,008 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="748edbd9-b849-4d30-9373-db9665a7640a")>] successed !
+2020-02-11 17:37:00,008 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:37:04,683 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:37:05,829 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:37:05,830 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:38:23,322 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:38:23,509 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:38:28,989 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="534353f5-ae82-4282-b0b8-bd23cc9de686")>] successed !
+2020-02-11 17:38:28,989 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:38:30,890 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:38:31,848 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:38:31,849 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:39:50,912 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:39:50,928 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:39:56,267 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="0f982f8f-f624-47df-9b4e-513f9f8edec4")>] successed !
+2020-02-11 17:39:57,130 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:39:57,677 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:41:20,152 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:41:20,168 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:41:26,131 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b62bc66f-03fb-4b6e-8e88-a5a71c35ae9a")>] successed !
+2020-02-11 17:41:28,459 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:41:28,986 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:41:44,489 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:41:44,645 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:41:51,138 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="7e34d406-9619-4f6c-b9e8-0a2c9ad61fdf")>] successed !
+2020-02-11 17:41:52,932 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:41:53,602 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:45:00,339 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:45:00,479 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:45:07,753 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="b9639c31-c3f6-4091-b227-324744fffc32")>] successed !
+2020-02-11 17:45:08,783 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:45:10,430 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:45:13,946 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:45:35,521 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:45:35,646 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:45:41,813 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="f1718e0e-80cf-4496-98d3-60b28d2fb517")>] successed !
+2020-02-11 17:45:41,828 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:45:43,859 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:45:46,580 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:45:46,580 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:45:54,322 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:47:04,351 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:47:04,367 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:47:09,690 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a12f7916-d483-4035-87da-9665ceb173ac")>] successed !
+2020-02-11 17:47:10,510 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:47:12,817 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:47:16,129 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:48:05,037 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:48:05,052 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:48:11,000 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="fbfcaf21-713d-446a-8d2b-64eaa78236d2")>] successed !
+2020-02-11 17:48:11,977 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:48:14,362 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:48:17,679 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:49:01,032 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:49:01,048 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:49:06,543 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="4b2761c4-0e26-4ac6-8f7e-8768e7ecf76a")>] successed !
+2020-02-11 17:49:07,505 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:49:08,053 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:49:11,366 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:52:38,163 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:52:38,178 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:52:44,890 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="694c618f-dcc2-4774-8c9a-07ea676d2626")>] successed !
+2020-02-11 17:52:47,143 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 17:52:47,761 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:52:51,072 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:53:19,086 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:53:19,102 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:53:25,034 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="90256e71-af4b-4cdb-bc4e-ba2c5be772f9")>] successed !
+2020-02-11 17:53:25,034 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:53:25,919 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:53:27,110 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:53:27,110 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:53:34,594 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 17:58:12,467 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 17:58:12,482 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 17:58:17,900 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="eea736e3-0fe6-4371-9640-a361db335b6e")>] successed !
+2020-02-11 17:58:17,900 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 17:58:18,781 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 17:58:20,041 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 17:58:20,042 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 17:58:27,641 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 18:03:08,252 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 18:03:08,268 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 18:03:13,685 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="ff36b6c5-7e26-4fab-bd14-6adb02ac110f")>] successed !
+2020-02-11 18:03:13,700 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 18:03:18,381 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 18:03:19,546 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 18:03:19,546 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 18:03:26,962 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 18:05:11,783 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 18:05:11,798 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 18:05:17,170 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="2d0061d9-3bcd-457d-95ab-0c78794f560b")>] successed !
+2020-02-11 18:05:17,185 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 18:05:21,860 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 18:05:22,989 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 18:05:22,989 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 18:05:30,861 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 18:44:28,450 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 18:44:28,700 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 18:44:35,881 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="987e048d-930c-4798-8ab1-76a58badf25a")>] successed !
+2020-02-11 18:44:35,881 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 18:44:36,817 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 18:44:38,862 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 18:44:38,864 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 18:44:47,416 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 18:47:31,662 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 18:47:31,678 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 18:47:36,923 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="3103e45c-a1ee-43bf-bade-b345a3c9217f")>] successed !
+2020-02-11 18:47:36,939 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 18:47:37,805 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 18:47:39,070 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 18:47:39,070 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 18:47:46,554 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 18:48:26,991 -SettingPageTC- log.py:[34] - [INFO] - test_profile_edit->run completed! please check the test report
+2020-02-11 18:51:19,366 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 18:51:19,381 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 18:51:24,783 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="21308a8d-59dc-431a-80a9-8f399d47065b")>] successed !
+2020-02-11 18:51:24,783 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 18:51:30,474 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 18:51:31,618 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 18:51:31,619 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 18:51:42,141 -Retail.Test_case.Page_obj.SettingPage- log.py:[34] - [INFO] - 下拉选择任何人
+2020-02-11 18:52:25,557 -SettingPageTC- log.py:[34] - [INFO] - test_profile_edit->run completed! please check the test report
+2020-02-11 19:32:49,644 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:32:49,802 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:33:21,223 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:33:21,240 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:33:57,378 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:33:57,394 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:34:03,799 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="1354dcaf-3364-4bb8-8120-925619aed406")>] successed !
+2020-02-11 19:34:04,663 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:34:06,949 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:35:08,598 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:35:08,732 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:35:15,128 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="c62c57f2-4eba-479e-b0f0-29134cea5fce")>] successed !
+2020-02-11 19:35:16,026 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:35:16,538 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:36:01,846 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:36:01,952 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:36:07,904 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="0017d035-ec1d-49e2-9ad4-3804b78de9b0")>] successed !
+2020-02-11 19:36:09,745 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:36:10,371 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:36:42,966 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:36:43,121 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:36:54,451 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="226feb33-ad04-4a29-a370-c1a518d4918a")>] successed !
+2020-02-11 19:36:55,422 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:36:55,944 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:37:17,497 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:37:17,622 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:37:23,674 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="993da364-2692-46e9-a69c-3358f1f8d090")>] successed !
+2020-02-11 19:37:24,810 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:37:25,927 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:37:35,196 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:37:35,212 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:37:41,023 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="8facb9e6-4acb-4824-a5f3-ac064110e547")>] successed !
+2020-02-11 19:37:41,866 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:37:42,410 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:46:40,866 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:46:41,037 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:46:48,662 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="cd571a66-1373-4972-a82d-96cf8722f755")>] successed !
+2020-02-11 19:46:48,662 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 19:46:49,599 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 19:46:50,899 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:46:50,900 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 19:48:01,958 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:48:01,974 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:48:07,220 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="24e8ebb0-f318-4d6f-8e61-a5ac9551e1d9")>] successed !
+2020-02-11 19:48:07,220 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 19:48:11,887 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 19:48:13,137 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:48:13,138 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 19:49:19,010 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:49:19,026 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:49:24,911 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="38f88e63-7d61-4c18-9f3c-dd30940649db")>] successed !
+2020-02-11 19:49:24,911 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 19:49:28,519 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 19:49:29,674 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:49:29,675 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 19:51:37,408 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:51:37,439 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:51:43,341 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="cb98e5d6-ce00-4896-b375-f16e3d6325dc")>] successed !
+2020-02-11 19:51:43,341 -Retail.Test_case.models.Myunit- log.py:[34] - [INFO] - opened the browser successed!
+2020-02-11 19:51:44,309 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://www.cnblogs.com/ at line[46]
+2020-02-11 19:51:45,918 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:51:45,918 -Retail.Test_case.models.PageUnit- log.py:[34] - [INFO] - ************************starting run test cases************************
+2020-02-11 19:54:30,439 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:54:30,454 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:54:36,355 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="a63cf5c1-382e-4c3d-b4f1-108fb2524580")>] successed !
+2020-02-11 19:54:37,350 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:54:37,918 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:55:22,011 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:55:22,027 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:55:28,537 -Retail.Test_case.models.Driver- log.py:[34] - [INFO] - <module>:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="3c0c554b-21d8-4c0f-9c75-e8672b68cfc7")>] successed !
+2020-02-11 19:55:29,265 -Retail.Test_case.Page_obj.base_page- log.py:[34] - [INFO] - _open is accessing address https://home.cnblogs.com/ at line[46]
+2020-02-11 19:55:31,514 -Retail.Test_case.models.Docookie- log.py:[34] - [INFO] - cookie自动登陆成功！
+2020-02-11 19:57:16,580 -Retail.Test_case.models.Doconfini- log.py:[34] - [INFO] - read excel value [D:\JekinsProject] successed!
+2020-02-11 19:57:16,658 -Retail.Test_case.models.Doexcel- log.py:[34] - [INFO] - initing class ReadExcel
+2020-02-11 19:57:25,462 -Retail.Test_case.models.Driver- log.py:[44] - [ERROR] - FireFoxDriverServer.exe executable needs to be in PATH. Please download!
+Traceback (most recent call last):
+  File "D:\JekinsProject\Retail\Test_case\models\Driver.py", line 17, in fireFoxDriver
+    self.driver = webdriver.Firefox()
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\firefox\webdriver.py", line 174, in __init__
+    keep_alive=True)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\JekinsProject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: permission denied
+

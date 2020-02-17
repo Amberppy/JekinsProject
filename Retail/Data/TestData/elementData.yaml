@@ -1,0 +1,241 @@
+ManageBlogTC:
+  cancelBlog: 2
+  draftBlog: 1
+  saveDone: !!python/tuple
+  - xpath
+  - //cnb-post-saved-info/div[1]/div
+  submitBlog: 0
+  uploadFDone: !!python/tuple
+  - xpath
+  - //span[@id="Editor_Edit_EditorBody_path"]/a
+  uploadFile: !!python/tuple
+  - name
+  - file
+  uploadFileBtn: !!python/tuple
+  - xpath
+  - //*[@id="Editor_Edit_EditorBody_uploadImage"]/span[1]/img
+  uploadFrameId: mce_*_ifr
+  addBlogSub: !!python/tuple
+  - xpath
+  - //cnb-post-editing-v2/cnb-post-editor/div[1]
+  blogList: !!python/tuple
+  - xpath
+  - //cnb-post-list/div[1]/table/thead/tr/th
+
+
+ManageBlog:
+  addNewFile: !!python/tuple
+  - css selector
+  - ul>li.ng-star-inserted:nth-child(1) > a
+  h_body_id: !!python/tuple
+  - id
+  - tinymce
+  h_text: <h1>Selenium Test </h1>I love Selenium <br> this article Post By Selenium
+    WebDriver<br><h2>Create By Young</h2>
+  inputTitle: !!python/tuple
+  - id
+  - post-title
+  manageblog: !!python/tuple
+  - id
+  - blog_nav_admin
+  myblog: !!python/tuple
+  - id
+  - user_nav_blog_link
+  rich_text_iframe: Editor_Edit_EditorBody_ifr
+  saveBtn: !!python/tuple
+  - class name
+  - cnb-button
+  tag_python_category: !!python/tuple
+  - id
+  - '1645976'
+
+
+
+LoginPage:
+  errorMessage: !!python/tuple
+  - xpath
+  - //div/form//div[@class="ajax-error mb-2"]
+  loginBtnEle: !!python/tuple
+  - id
+  - submitBtn
+  nullMessage_pwd: !!python/tuple
+  - id
+  - Password-error
+  nullMessage_user: !!python/tuple
+  - id
+  - LoginName-error
+  passWordEle: !!python/tuple
+  - id
+  - Password
+  quitBtn: !!python/tuple
+  - partial link text
+  - "\u9000\u51FA"
+  saveInfoEle: !!python/tuple
+  - id
+  - IsRemember
+  userNameEle: !!python/tuple
+  - id
+  - LoginName
+
+
+
+
+
+SettingPage:
+  ProLang: !!python/tuple
+  - id
+  - cate_item_2
+  PyItem: !!python/tuple
+  - xpath
+  - //*[@id="cate_content_block_2"]/div[2]/ul/li[5]/a
+  param:
+    birthday:
+    - !!python/tuple
+      - id
+      - year
+    - '1984'
+    - !!python/tuple
+      - id
+      - month
+    - '9'
+    - !!python/tuple
+      - id
+      - day
+    - '14'
+    - !!python/tuple
+      - id
+      - ddl_birth
+    - "\u4EC5\u597D\u53CB"
+    - !!python/tuple
+      - id
+      - chk_birth
+    - Y
+    company:
+    - !!python/tuple
+      - id
+      - txt_company
+    - test
+    - !!python/tuple
+      - id
+      - ddl_company
+    - "\u4FDD\u5BC6"
+    - !!python/tuple
+      - id
+      - chk_company
+    - N
+    gender:
+    - !!python/tuple
+      - xpath
+      - //*[@id="Gender" and @value="0"]
+    - !!python/tuple
+      - id
+      - ddl_gender
+    - "\u4EFB\u4F55\u4EBA"
+    - !!python/tuple
+      - id
+      - chk_gender
+    - Y
+    hometown:
+    - !!python/tuple
+      - id
+      - s1
+    - "\u6CB3\u5317\u7701"
+    - !!python/tuple
+      - id
+      - s2
+    - "\u90AF\u90F8\u5E02"
+    - !!python/tuple
+      - id
+      - ddl_home
+    - "\u4EC5\u597D\u53CB"
+    - !!python/tuple
+      - id
+      - chk_home
+    - Y
+    marriage:
+    - !!python/tuple
+      - id
+      - ddl_block_marriage
+    - "\u5DF2\u5A5A"
+    - !!python/tuple
+      - id
+      - ddl_marriage
+    - "\u4EC5\u597D\u53CB"
+    - !!python/tuple
+      - id
+      - chk_marry
+    - N
+    name:
+    - !!python/tuple
+      - id
+      - txt_name
+    - test
+    - !!python/tuple
+      - id
+      - ddl_name
+    - "\u4EFB\u4F55\u4EBA"
+    - !!python/tuple
+      - id
+      - chk_name
+    - Y
+    position:
+    - !!python/tuple
+      - id
+      - txt_position
+    - test
+    - !!python/tuple
+      - id
+      - ddl_position
+    - "\u4FDD\u5BC6"
+    - !!python/tuple
+      - id
+      - chk_marry
+    - N
+    reside:
+    - !!python/tuple
+      - id
+      - reside1
+    - "\u5317\u4EAC\u5E02"
+    - !!python/tuple
+      - id
+      - reside2
+    - "\u897F\u57CE\u533A"
+    - !!python/tuple
+      - id
+      - ddl_reside
+    - "\u4EC5\u597D\u53CB"
+    - !!python/tuple
+      - id
+      - chk_reside
+    - N
+    status:
+    - !!python/tuple
+      - id
+      - ddl_block_status
+    - "\u5F85\u4E1A\u4E2D"
+    - !!python/tuple
+      - id
+      - ddl_status
+    - "\u4FDD\u5BC6"
+    - !!python/tuple
+      - id
+      - chk_status
+    - N
+  profileBtn: !!python/tuple
+  - xpath
+  - /html/body/app-root/div/mat-sidenav-container/mat-sidenav/div/app-drawer/mat-nav-list/a[2]/div
+  saveBtn: !!python/tuple
+  - id
+  - btn_submit
+  settingButton: !!python/tuple
+  - xpath
+  - //*[@id="span_userinfo"]/a[4]
+  upFilePage: !!python/tuple
+  - xpath
+  - //mat-nav-list/a[3]/div
+  updateDone: !!python/tuple
+  - id
+  - lit_tip
+  uploadBtn: !!python/tuple
+  - name
+  - file
